@@ -7,3 +7,5 @@ Learn Solidity
 4. Payments
 
 After than we will build a platform which call a smart contract which will inturn create a google meet 
+
+Place to practice solidity : https://cryptozombies.io/
